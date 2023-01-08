@@ -3,5 +3,7 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: Computational Thinking with Data
-description: UM-SJTU Joint Institute 2023 Winter Program
+description: UM-SJTU Joint Institute          
+
+2023 Winter Program
 logo: /assets/img/logo.jpg
