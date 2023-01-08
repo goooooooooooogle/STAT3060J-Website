@@ -9,9 +9,13 @@
 
 #### 用户画像
 - 用户年龄段分布
-![image](https://github.com/Dzsyang/STAT3060J-Website/blob/main/User%20Picture/User%20Age%20Distribution.png)
+
+<img src="https://github.com/Dzsyang/STAT3060J-Website/blob/main/User%20Picture/User%20Age%20Distribution.png" width="300px">
+
 - 用户性别分布
-![image](https://github.com/Dzsyang/STAT3060J-Website/blob/main/User%20Picture/User%20Gender%20Distribution.png)
+
+<img src="https://github.com/Dzsyang/STAT3060J-Website/blob/main/User%20Picture/User%20Gender%20Distribution.png" width="300px">
+
 #### 公众号传播方式
 - 自身宣传方式：
   - 数据和图
