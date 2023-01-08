@@ -1,4 +1,4 @@
-# STAT3060-Website
+# STAT3060J Website
 
 ## Overview
 
